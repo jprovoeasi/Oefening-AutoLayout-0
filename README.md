@@ -10,4 +10,4 @@ Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, et
 3. Voeg 4 elementen toe aan de view controller. Aligneer 1 element bovenaan, 1 links, 1 rechts en 1 onderaan. Zorg ervoor dat elk element correct gealigneerd blijft wanneer je roteert. Wat gebeurt er wanneer je het device roteert?
 4. Voeg 3 elementen toe aan de view controller. Aligneer het 1e element in het midden. Aligneer het 2e element onder het 1e. Aligneer het 3e element naast het 1e. Wat gebeurt er wanneer je het device roteert?
 5. Verander de waarde van enkele constraints vanuit code.
-6. Verander de waarde van enkele constraint vanuit code, ditmaal met animatie.
+6. Verander de waarde van enkele constraints vanuit code, ditmaal met animatie.
