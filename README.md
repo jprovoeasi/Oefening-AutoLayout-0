@@ -4,6 +4,7 @@
 
 ## Opgaves
 Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, etc. Roteer het device bij elke opgave zodat je duidelijk ziet of jouw oplossing werkt.
+
 1. Gebruik enkel *Align*! Voeg 1 element toe aan de view controller. Aligneer dit element in het midden. Wat gebeurt er wanneer je het device roteert?
 2. Gebruik enkel *Pin*! Voeg 2 elementen toe aan de view controller. Aligneer 1 element links bovenaan en 1 element rechts onderaan. Wat gebeurt er wanneer je het device roteert?
 3. Voeg 4 elementen toe aan de view controller. Aligneer 1 element bovenaan, 1 links, 1 rechts en 1 onderaan. Zorg ervoor dat elk element correct gealigneerd blijft wanneer je roteert. Wat gebeurt er wanneer je het device roteert?
