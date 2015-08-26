@@ -1,6 +1,6 @@
 # Oefening-AutoLayout-0
 ## Tips
-1. Je kan het device in de simulator roteren met ⌘+← of ⌘+→.
+1. Je kan het device in de simulator roteren met `⌘+←` of `⌘+→`.
 
 ## Opgaves
 Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, etc. Roteer het device bij elke opgave zodat je duidelijk ziet of jouw oplossing werkt.
