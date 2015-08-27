@@ -1,4 +1,5 @@
 # Oefening-AutoLayout-0
+
 ## Tips
 1. Je kan het device in de simulator roteren met `⌘+←` of `⌘+→`.
 
@@ -11,3 +12,6 @@ Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, et
 4. Voeg 5 elementen toe aan de view controller. Aligneer het 1e element in het midden, de andere elementen aligneer je rondom het 1e element. Wat gebeurt er wanneer je het device roteert?
 5. Verander de waarde van enkele constraints vanuit code.
 6. Verander de waarde van enkele constraints vanuit code, ditmaal met animatie.
+
+## Oplossing
+De oplossingen vind je terug onder de branch **oplossing** van deze repository.
