@@ -1,5 +1,7 @@
 # Oefening-AutoLayout-0
 
+In deze oefening leer je om te gaan met AutoLayout.
+
 ## Tips
 1. Je kan het device in de simulator roteren met `⌘+←` of `⌘+→`.
 
