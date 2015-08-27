@@ -13,6 +13,7 @@
 		AB31D80E1B81BEAD00E6C001 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB31D80D1B81BEAD00E6C001 /* Images.xcassets */; };
 		AB31D8111B81BEAD00E6C001 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB31D80F1B81BEAD00E6C001 /* LaunchScreen.xib */; };
 		AB31D81D1B81BEAD00E6C001 /* Oefening_AutoLayout_0Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB31D81C1B81BEAD00E6C001 /* Oefening_AutoLayout_0Tests.m */; };
+		ABCB1EBC1B8EF1DA00C556B8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABCB1EBB1B8EF1DA00C556B8 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,8 @@
 		AB31D8161B81BEAD00E6C001 /* Oefening-AutoLayout-0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oefening-AutoLayout-0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB31D81B1B81BEAD00E6C001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB31D81C1B81BEAD00E6C001 /* Oefening_AutoLayout_0Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Oefening_AutoLayout_0Tests.m; sourceTree = "<group>"; };
+		ABCB1EBA1B8EF1DA00C556B8 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Classes/ViewController.h; sourceTree = "<group>"; };
+		ABCB1EBB1B8EF1DA00C556B8 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Classes/ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 			isa = PBXGroup;
 			children = (
 				AB31D8281B81D2C100E6C001 /* Storyboards */,
+				ABCB1EBA1B8EF1DA00C556B8 /* ViewController.h */,
+				ABCB1EBB1B8EF1DA00C556B8 /* ViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -246,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABCB1EBC1B8EF1DA00C556B8 /* ViewController.m in Sources */,
 				AB31D8061B81BEAD00E6C001 /* AppDelegate.m in Sources */,
 				AB31D8031B81BEAD00E6C001 /* main.m in Sources */,
 			);
