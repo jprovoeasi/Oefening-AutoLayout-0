@@ -1,13 +1,19 @@
-# Oefening-AutoLayout-0
+# Exercise-AutoLayout-0
+
+In this exercise you will learn to work with AutoLayout.
+
 ## Tips
-1. Je kan het device in de simulator roteren met `⌘+←` of `⌘+→`.
+1. The device in the iOS simulator can be rotated by using the shortcuts `⌘+←` and `⌘+→`.
 
-## Opgaves
-Voor alle opgaves mag je een UI element kiezen: UIView, UILabel, UIImageView, etc. Roteer het device bij elke opgave zodat je duidelijk ziet of jouw oplossing werkt.
+## Tasks
+For all tasks you are free to pick any UI element: UIView, UILabel, UIImageView, etc. Rotate the device for every task to test wheter your implementation is correct.
 
-1. Gebruik enkel *Align*! Voeg 1 element toe aan de view controller. Aligneer dit element in het midden. Wat gebeurt er wanneer je het device roteert?
-2. Gebruik enkel *Pin*! Voeg 2 elementen toe aan de view controller. Aligneer 1 element links bovenaan en 1 element rechts onderaan. Wat gebeurt er wanneer je het device roteert?
-3. Voeg 4 elementen toe aan de view controller. Aligneer 1 element bovenaan, 1 links, 1 rechts en 1 onderaan. Zorg ervoor dat elk element correct gealigneerd blijft wanneer je roteert. Wat gebeurt er wanneer je het device roteert?
-4. Voeg 5 elementen toe aan de view controller. Aligneer het 1e element in het midden, de andere elementen aligneer je rondom het 1e element. Wat gebeurt er wanneer je het device roteert?
-5. Verander de waarde van enkele constraints vanuit code.
-6. Verander de waarde van enkele constraints vanuit code, ditmaal met animatie.
+1. Use only *Align*! Add 1 element to the view controller. Align this element in the center. What happens when you rotate the device?
+2. Use only *Pin*! Add 2 elements to the view controller. Align 1 element at the top left and 1 element at the bottom right. What happens when you rotate the device?
+3. Add 4 elements to the view controller. Allign 1 element at the top, 1 left, 1 right and 1 at the bottom. Ensure every element stays aligned correctly when rotating. What happens when you rotate the device?
+4. Add 5 elements to the view controller. Allign the 1st element in the center, align the other 4 elements (relative) arround the 1st. What happens when you rotate the device?
+5. Change the values of some constraints from code.
+6. Change the values of some constraints from code, with animation.
+
+## Solution
+The solution are available in the **oplossing** branch of this repository.
